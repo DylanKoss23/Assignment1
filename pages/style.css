@@ -9,9 +9,9 @@ main {
   max-width: 600px;
   margin: 50px auto;
   padding: 20px;
-  background-color: #000000;
+  background-color: #70a7b4;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 10px rgba(53, 136, 161, 0.1);
 }
 
 form {
